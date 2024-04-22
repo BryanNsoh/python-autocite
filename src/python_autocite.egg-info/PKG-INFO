@@ -1,0 +1,8 @@
+Metadata-Version: 2.1
+Name: python-autocite
+Version: 0.0.4
+Summary: Scrape webpages and generate citations
+Home-page: https://github.com/thenaterhood/python-autocite/archive/master.zip
+Author: Nate Levesque
+Author-email: public@thenaterhood.com
+License-File: LICENSE
